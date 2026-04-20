@@ -1,0 +1,21 @@
+# Git ignore
+/.git/
+/__pycache__/
+*.pyc
+*.pyo
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.tmp.*
+/.claude/
+/figures/
+/files\ \(3\)/
+/experiment2/__pycache__/
+*.pdf
+*.zip
+/results_extended.zip
+/results_extracted/
+results_*.pt
+!results_extended.pt
